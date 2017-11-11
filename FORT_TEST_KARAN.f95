@@ -1,4 +1,4 @@
-PROGRAM FORTRAN_TEST
+PROGRAM TWO_D_HEAT_TRANSFER
 
 !To solve the problem of heat transfer in a plate using RELAXATION TECHNIQUE to solve the elliptic equation
 
